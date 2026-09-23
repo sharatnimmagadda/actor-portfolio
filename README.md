@@ -5,7 +5,7 @@ Static website for an actor's profile, hosted on GitHub Pages.
 ## Editing
 - Text, credits and contact details: `index.html`
 - Colors and layout: `assets/style.css`
-- Photos: put `headshot.jpg` and `photo1.jpg`–`photo4.jpg` in `assets/img/`
+- Photos: put `headshot.jpg` and `photo1.jpg`–`photo4.jpg` in `assets/img/` (missing photos show `wip.svg`)
 - Showreel: replace `VIDEO_ID` in `index.html` with the YouTube video ID
 
 ## Preview locally
