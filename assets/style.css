@@ -39,3 +39,8 @@ h3 { font-size:1.4rem; margin:28px 0 8px; color:var(--accent); }
   .nav nav { gap:12px; }
   
 }
+.gallery figure { margin:0; }
+.gallery figcaption { color:var(--muted); font-size:.85rem; margin-top:8px; }
+.note { color:var(--muted); }
+.hero-img { object-position:center 35%; }
+.gallery.photos { grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); }
